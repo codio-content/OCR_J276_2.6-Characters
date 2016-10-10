@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "1474aa5e-f43c-d41c-5897-de20dda44ef7",
+   "title": "Characters",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Characters-1474.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "edf3a19f-fb18-e669-d106-70d7347ec28d",
+   "title": "Characters",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Characters-edf3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "00eeab95-77cc-d906-515f-dc62117b35b5",
+   "title": "ASCII",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/ASCII-00ee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e121afb8-d139-a242-6f3b-0a0293497d99",
+   "title": "The extended ASCII code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-extended-ASCII-code-e121.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "668b80ef-5d19-2b2a-e2a7-db49a6b1869f",
+   "title": "Unicode",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unicode-668b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2f8a4a81-256e-84cc-f3a3-8a98e997b0ec",
+   "title": "Coding",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Coding-2f8a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d7cb3604-e160-a569-a39e-256d12961ec3",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-d7cb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a025d3b5-ab3e-3717-25db-8f84d4e919d4",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-a025.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

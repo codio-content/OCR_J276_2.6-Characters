@@ -1,0 +1,1 @@
+In this lesson we will look at the use of binary codes to represent characters and the relationship between the number of bits per character in a character set and the number of characters which can be represented (for example ASCII, extended ASCII and Unicode).

@@ -1,0 +1,98 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1384862931",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "All characters processed by a computer are represented as <<<binary>>> codes and the complete list of the ones it can recognise is called its <<<character set>>>.\nThe <<<ASCII>>> code uses <<<7>>> bit binary numbers and so <<<128>>> characters can be represented. ",
+   "tokens": {
+    "blank": [
+     "binary",
+     "character set",
+     "ASCII",
+     "7",
+     "128"
+    ],
+    "text": [
+     "All characters processed by a computer are represented as ",
+     0,
+     " codes and the complete list of the ones it can recognise is called its ",
+     0,
+     ".\nThe ",
+     0,
+     " code uses ",
+     0,
+     " bit binary numbers and so ",
+     0,
+     " characters can be represented. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2143599472",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Because of limitations <<<extended>>> ASCII uses <<<8>>> bits and can represent <<<256>>> characters.",
+   "tokens": {
+    "blank": [
+     "extended",
+     "8",
+     "256"
+    ],
+    "text": [
+     "Because of limitations ",
+     0,
+     " ASCII uses ",
+     0,
+     " bits and can represent ",
+     0,
+     " characters."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1257596583",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "As there was no <<<standardisation>>> between different <<<manufacturers>>> extended ASCII has been replaced with <<<Unicode>>> which has different encodings. \nThe <<<32>>> bit encoding can represent enough characters for all known <<<languages>>>.",
+   "tokens": {
+    "blank": [
+     "standardisation",
+     "manufacturers",
+     "Unicode",
+     "32",
+     "languages"
+    ],
+    "text": [
+     "As there was no ",
+     0,
+     " between different ",
+     0,
+     " extended ASCII has been replaced with ",
+     0,
+     " which has different encodings. \nThe ",
+     0,
+     " bit encoding can represent enough characters for all known ",
+     0,
+     "."
+    ]
+   }
+  }
+ }
+]
